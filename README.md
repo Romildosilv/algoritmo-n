@@ -1,0 +1,2 @@
+# algoritmo-n
+Intervalo
